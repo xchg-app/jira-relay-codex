@@ -16,6 +16,6 @@ access token. The service itself is set up by its admin: see the jira-relay READ
 
 Every file here is built from [xchg-app/jira-relay](https://github.com/xchg-app/jira-relay) and
 overwritten on each release, so changes made here are lost. Issues and pull requests belong in that
-repository; this one only ships version 0.6.1 of the package.
+repository; this one only ships version 0.6.2 of the package.
 
 [MIT](LICENSE) © Nikolay Pronchev.
